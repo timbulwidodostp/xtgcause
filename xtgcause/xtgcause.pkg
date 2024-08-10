@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtgcause': Testing for Granger causality in panel data With Panel Granger (Non-)Causality Test (Dumitrescu/Hurlin (2012)) Use xtgcause With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtgcause.ado
+f xtgcause.sthlp
